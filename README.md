@@ -13,7 +13,6 @@
 ## 🔬 Scientific Question
 Can a general-purpose causal LLM (**OLMo-7B**) match a dedicated Message-Passing Graph Neural Network (**GNN**) on molecular toxicity prediction when evaluated on a rigorous, data-leakage-free scaffold split?
 
----
 
 ## 📊 Key Findings: The "Accuracy Illusion" & The 0.009 Gap
 
